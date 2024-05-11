@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(./images/360_F_608553439_8zyI39S8PWYg7hqzcrCMVZaYZSOFgJwj.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: "Lugrasimo", cursive;
+    ;
+    margin-top: 80px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.seconds {
+    color: white;
+    margin: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 280px;
+    border-radius: 7px;
+    background-color: linear-gradient(to bottom, #33ccff 43%, #ff99cc 67%);;
+    width: auto;
+    height: auto;
+    border: 2px solid white;
+    padding: 20px;
+}
+.minutes {
+    color: white;
+    margin: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 280px;
+    border-radius: 7px;
+    background-color: linear-gradient(to bottom, #33ccff 43%, #ff99cc 67%);;
+    width: auto;
+    height: auto;
+    border: 2px solid white;
+    padding: 20px;
+}
+.hours {
+    color: white;
+    margin: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 280px;
+    border-radius: 7px;
+    background-color: linear-gradient(to bottom, #33ccff 43%, #ff99cc 67%);;
+    width: auto;
+    height: auto;
+    border: 2px solid white;
+    padding: 20px;
+}
+.days {
+    color: white;
+    margin: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 280px;
+    border-radius: 7px;
+    background-color: linear-gradient(to bottom, #33ccff 43%, #ff99cc 67%);;
+    width: auto;
+    height: auto;
+    border: 2px solid white;
+    padding: 20px;
+}
+.months {
+    color: white;
+    margin: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 280px;
+    border-radius: 7px;
+    background-color: linear-gradient(to bottom, #33ccff 43%, #ff99cc 67%);
+    width: auto;
+    height: auto;
+    border: 2px solid white;
+    padding: 20px;
+}
+.years {
+    color: white;
+    margin: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 280px;
+    border-radius: 7px;
+    background-color: linear-gradient(to bottom, #33ccff 43%, #ff99cc 67%);;
+    width: auto;
+    height: auto;
+    border: 2px solid white;
+    padding: 20px;
+}
